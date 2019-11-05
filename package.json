@@ -27,7 +27,7 @@
     "graphql": "^14.5.4",
     "graphql-tools": "^4.0.5",
     "lodash": "^4.17.15",
-    "mongoose": "^5.7.0",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.2",
     "sequelize": "^4.22.6",
     "sqlite3": "^4.1.0"
